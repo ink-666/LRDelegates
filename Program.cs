@@ -1,7 +1,4 @@
-﻿Вот целый код с чуть большим количеством коротких подсказок, но без лишнего построчного объяснения:
-
-```csharp
-using System; // Базовые классы C#, например Console, Func, Action, Predicate.
+﻿using System; // Базовые классы C#, например Console, Func, Action, Predicate.
 using System.Collections.Generic; // Коллекции, например List<T>.
 
 namespace DelegatesLab
@@ -434,4 +431,3 @@ namespace DelegatesLab
         }
     }
 }
-```
